@@ -1,0 +1,13 @@
+C:\Users\Anubis\source\repos\P127.HW.24.02\P127.HW.24.02\bin\Debug\netcoreapp3.1\P127.HW.24.02.exe
+C:\Users\Anubis\source\repos\P127.HW.24.02\P127.HW.24.02\bin\Debug\netcoreapp3.1\P127.HW.24.02.deps.json
+C:\Users\Anubis\source\repos\P127.HW.24.02\P127.HW.24.02\bin\Debug\netcoreapp3.1\P127.HW.24.02.runtimeconfig.json
+C:\Users\Anubis\source\repos\P127.HW.24.02\P127.HW.24.02\bin\Debug\netcoreapp3.1\P127.HW.24.02.runtimeconfig.dev.json
+C:\Users\Anubis\source\repos\P127.HW.24.02\P127.HW.24.02\bin\Debug\netcoreapp3.1\P127.HW.24.02.dll
+C:\Users\Anubis\source\repos\P127.HW.24.02\P127.HW.24.02\bin\Debug\netcoreapp3.1\P127.HW.24.02.pdb
+C:\Users\Anubis\source\repos\P127.HW.24.02\P127.HW.24.02\obj\Debug\netcoreapp3.1\P127.HW.24.02.csprojAssemblyReference.cache
+C:\Users\Anubis\source\repos\P127.HW.24.02\P127.HW.24.02\obj\Debug\netcoreapp3.1\P127.HW.24.02.AssemblyInfoInputs.cache
+C:\Users\Anubis\source\repos\P127.HW.24.02\P127.HW.24.02\obj\Debug\netcoreapp3.1\P127.HW.24.02.AssemblyInfo.cs
+C:\Users\Anubis\source\repos\P127.HW.24.02\P127.HW.24.02\obj\Debug\netcoreapp3.1\P127.HW.24.02.csproj.CoreCompileInputs.cache
+C:\Users\Anubis\source\repos\P127.HW.24.02\P127.HW.24.02\obj\Debug\netcoreapp3.1\P127.HW.24.02.dll
+C:\Users\Anubis\source\repos\P127.HW.24.02\P127.HW.24.02\obj\Debug\netcoreapp3.1\P127.HW.24.02.pdb
+C:\Users\Anubis\source\repos\P127.HW.24.02\P127.HW.24.02\obj\Debug\netcoreapp3.1\P127.HW.24.02.genruntimeconfig.cache
